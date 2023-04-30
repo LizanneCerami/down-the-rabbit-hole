@@ -10,7 +10,7 @@ export default function RabbitHole() {
 
     <button onClick={() => navigate('/Clock')} className="main"> 
     
-    down the rabbit hole........
+    we are all mad here
 
     </button>
 
