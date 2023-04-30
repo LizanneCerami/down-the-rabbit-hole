@@ -24,8 +24,8 @@
 }
 
 button{
-  font-size: 75px;
+  font-size: 85px;
   font-family: "Dancing Script";
-  color: aliceblue;
+  color: rgb(205, 205, 205);
   cursor: pointer;
 }
