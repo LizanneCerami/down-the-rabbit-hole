@@ -74,8 +74,9 @@ const ClockFace = styled.div `
   // border-left: 1px solid #333;
   text-align: right;
   box-shadow: 20px 20px 50px rgba(0,0,0,0.3);
-  border-radius: 10px;
+  // border-radius: 10px;
   min-width: 100px;
+  border: 2px solid red;
 `;
 
 const HoursMinutes = styled.div`
